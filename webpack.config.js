@@ -17,7 +17,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "React Fun Facts",
+      title: "Meme Generator",
       template: "./src/index.html",
     }),
   ],
